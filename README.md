@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnainala&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnainala" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulnainala&margin-w=15&margin-h=15" alt="rahulnainala" />
-  </a> 
-</p>
-
 - 👨‍💻 All of my projects are available at [https://rahulnainala.com](https://rahulnainala.com)  
 
 - 📫 How to reach me **rahulnainala2@gmail.com**  
