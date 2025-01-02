@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahulnainala.com](https://rahulnainala.com)
 
-- 📫 How to reach me **rahulnainala2@gmail.com**
+- 📫 How to reach me **nainalarahul2k1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
