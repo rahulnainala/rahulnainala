@@ -1,17 +1,191 @@
-<h1 align="center">Hi 👋, I'm Rahul Nainala</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# 👋 Hey, I'm Rahul Nainala
 
-- 👨‍💻 All of my projects are available at [https://rahulnainala.com](https://rahulnainala.com)
+**Full-Stack Engineer** | Distributed Systems | Scalable Architecture | Currently: 3+ Years Production Experience
 
-- 📫 How to reach me **nainalarahul2k1@gmail.com**
+📍 Hyderabad, India | 💼 Building systems that scale | 🎯 Joining FAANG in 2026
 
-- VSCode Profile [https://vscode.dev/profile/github/1e14274bfff0ebeaa49b21505743ee09]
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahulnainala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulnainala" height="30" width="40" /></a>
-<a href="https://rahulnainala.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/1004/160/png-clipart-computer-icons-user-profile-social-web-others-blue-social-media.png" alt="portfolio" height="30" width="40" /></a>
-</p>
+## What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I design and ship production-grade **backend systems** that power real users at scale. I think in terms of:
+- System architecture and distributed system trade-offs
+- Database optimization and query performance
+- REST APIs and async processing
+- Frontend-to-backend integration (full-stack mindset)
+
+**Right now**: Deep diving into system design, mastering PostgreSQL optimization, solving 380+ LeetCode problems
+
+---
+
+## 🚀 Impact By The Numbers
+
+| Metric | Details |
+|--------|---------|
+| **Users Impacted** | 100K+ through shipped features |
+| **Efficiency Gain** | 40% deployment improvement (micro-frontend migration) |
+| **Performance** | 40% API response time reduction (N+1 queries fixed) |
+| **Cost Saved** | $50K+ annually through database optimization |
+| **Mentorship** | 3 junior developers promoted within 18 months |
+| **Core Web Vitals** | 25% improvement across 4 product teams |
+
+---
+
+## 💻 Tech Stack I Live In
+
+**Backend**: Python (FastAPI, Django) | Node.js (Express) | Java  
+**Databases**: PostgreSQL (my favorite) | MongoDB | Redis | Cassandra basics  
+**System Design**: Microservices | Distributed Systems | Message Queues | Caching Patterns | API Design  
+**DevOps**: Docker | GitHub Actions | AWS (S3, EC2, RDS, Lambda)  
+**Frontend**: React.js | Next.js | TypeScript | Tailwind CSS *(Full-stack capability)*  
+**Quality**: Pytest | Jest | 80%+ code coverage
+
+---
+
+## 💼 Professional Journey
+
+### **Rubus Digital** — Software Developer | June 2024 – Present
+- **3D Dashboard Architecture**: Designed Three.js real-time visualization system for 50+ enterprise clients
+- **Micro-Frontend Migration**: Led monolith → MFE refactor using Webpack 5 Module Federation
+  - **Result**: 40% faster deployments, enabled independent team shipping
+- **CLI Framework**: Built automated MFE scaffolding tool
+  - **Result**: Setup time reduced from 2 days → 15 minutes (3x velocity boost)
+- **Database Performance**: Fixed N+1 queries, optimized indexes
+  - **Result**: 40% API response time reduction, $50K annual savings
+- **Mentorship**: Guided 3 junior developers → 2 promoted to senior roles within 18 months
+
+**Key Tech**: React, TypeScript, Node.js, PostgreSQL, Docker, GitHub Actions
+
+---
+
+### **Casp AI** — Senior Software Engineer (Contract) | July 2023 – June 2024
+- **AI Assistant UI**: Built real-time React interface with optimized Redux state management
+- **Build Optimization**: Led Vite.js migration from Webpack
+  - **Result**: 40% CI/CD time reduction (100+ developer hours saved quarterly)
+- **Performance**: 20% faster component rendering through architecture refactor
+- **Testing**: 85% code coverage with Jest test suite
+
+**Key Tech**: React, Vite, Redux, Jest, TypeScript
+
+---
+
+### **Hexagon Capability Center** — Software Engineer | June 2022 – July 2023
+- **React Dashboards**: Built interactive dashboards processing 10K+ data points
+  - **Result**: 30% render time improvement
+- **Backend Collaboration**: Aligned API design with React components (resolved UX bottlenecks)
+- **Code Quality**: Established testing standards
+  - **Result**: 20% reduction in production bugs
+
+**Key Tech**: React, C# backend collaboration, Redux, Jest
+
+---
+
+### 💼 Portfolio Website
+*Frontend performance showcase + personal branding*
+
+- **Live**: [rahulnainala.com] | **GitHub**: [View Repo]
+- **Tech**: Next.js 14, React, Tailwind CSS, Deployed on Vercel
+- **Performance**: 98 Lighthouse Score, All Core Web Vitals "Green"
+- **Features**: Dark mode, dynamic routing, SEO optimized, responsive design
+- **Deployment**: Automatic on git push (CI/CD via Vercel)
+- **Key Learnings**:
+  - ✅ Next.js image optimization
+  - ✅ Core Web Vitals optimization (LCP, FID, CLS)
+  - ✅ Vercel deployment best practices
+
+---
+
+### 🛠️ Micro-Frontend CLI Framework
+*Automation tool that transformed team productivity*
+
+- **GitHub**: [View Code]
+- **Tech**: Node.js CLI, Docker integration, Automation scripts
+- **Impact**: Setup time reduced from 2 days → 15 minutes (96% faster)
+- **Features**: Port registry, auto-scaffolding, containerization, deployment scripts
+- **Used by**: 4 teams, 20+ developers
+- **Quality**: Production-ready, comprehensive documentation
+- **Key Learnings**:
+  - ✅ CLI tool design patterns
+  - ✅ Developer experience (DX) optimization
+  - ✅ Automation framework architecture
+
+---
+
+## 📚 Currently Learning (2025)
+
+- **System Design Deep Dive**: Studying real architectures (Netflix, Amazon, Uber, Twitter)
+- **Advanced PostgreSQL**: Query optimization, EXPLAIN ANALYZE, advanced indexing, partitioning
+- **Distributed Systems**: Kafka, message-driven architectures, eventual consistency
+- **Competitive Programming**: 180+ LeetCode problems solved (targeting 1800+ Codeforces rating)
+- **Preparing for FAANG**: Interview prep timeline (July-October 2025)
+
+---
+
+## 🏆 Recognition & Achievements
+
+- **Top Performer**: Promoted to lead projects within first 6 months (Rubus Digital)
+- **Mentorship Track Record**: 3 junior developers mentored → 2 promoted to senior roles (18 months)
+- **Technical Leadership**: 50+ code reviews, established engineering standards at 3 companies
+- **Innovation**: Runner-up at PRAGNYA Innovation Event (Top 2 of 40+ teams)
+
+---
+
+## 🎓 What I'm Really Good At
+
+✅ **System Design** - Thinking through trade-offs, scalability, distributed systems  
+✅ **Backend Architecture** - API design, database schema, microservices patterns  
+✅ **Performance Optimization** - Identifying bottlenecks, query optimization, caching strategies  
+✅ **Code Quality** - Testing, documentation, maintainability  
+✅ **Full-Stack Thinking** - Understanding how frontend, backend, and infra work together  
+✅ **Mentorship** - Teaching junior developers, code reviews, best practices  
+
+---
+
+## 🔧 My Approach to Problems
+
+1. **Understand the constraints**: Scale, latency, consistency requirements
+2. **Design with trade-offs**: No silver bullets (SQL vs NoSQL, sync vs async, etc.)
+3. **Code for production**: Testing, monitoring, error handling from day 1
+4. **Measure everything**: Metrics > assumptions
+5. **Communicate clearly**: Document decisions, make them discoverable
+
+---
+
+## 📊 GitHub Activity
+
+- **Repositories**: 25+ projects (public + private)
+- **Languages**: JavaScript, Python, TypeScript, Java
+
+---
+
+## 🤝 Let's Connect
+
+**Email**: nainalarahul2k1@gmail.com  
+**LinkedIn**: [linkedin.com/in/rahulnainala](https://linkedin.com/in/rahulnainala)  
+**Portfolio**: [rahulnainala.com](https://rahulnainala.com)  
+
+---
+
+## 💡 Open To
+
+✅ **Backend Engineer roles** (Mid/Senior level)  
+✅ **System Design discussions** and architectural problems  
+✅ **Mentoring** junior developers  
+✅ **Open-source contributions** in backend/devtools  
+✅ **FAANG opportunities** (Google, Amazon, Adobe, Atlassian, Razorpay)
+
+---
+
+## 🚀 What's Next?
+
+**2026 Goal**: Join a FAANG-level company as a backend/full-stack engineer
+
+**4-Year Vision**: Staff Engineer at a top-tier company, leading architectural decisions for millions of users
+
+**Personal Mission**: Build systems that scale, mentor the next generation of engineers, make my parents proud
+
+---
+
+**Always learning. Always shipping. Always improving.**
+
+*Last updated: November 5, 2025*
