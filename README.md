@@ -1,191 +1,64 @@
-# 👋 Hey, I'm Rahul Nainala
+# Rahul Nainala
 
-**Full-Stack Engineer** | Distributed Systems | Scalable Architecture | Currently: 3+ Years Production Experience
+**Senior Full-Stack / Senior Software Engineer** · Hyderabad or Bengaluru · hybrid or on-site
 
-📍 Hyderabad, India | 💼 Building systems that scale | 🎯 Joining FAANG in 2026
+I build the whole path a request takes: the interface, the APIs, licensing and billing, and the machines underneath, from GPU servers to a Raspberry Pi. 4+ years full-time since June 2022, each job one layer deeper.
 
----
-
-## What I Do
-
-I design and ship production-grade **backend systems** that power real users at scale. I think in terms of:
-- System architecture and distributed system trade-offs
-- Database optimization and query performance
-- REST APIs and async processing
-- Frontend-to-backend integration (full-stack mindset)
-
-**Right now**: Deep diving into system design, mastering PostgreSQL optimization, solving 380+ LeetCode problems
+**[rahulnainala.com](https://www.rahulnainala.com)** · [LinkedIn](https://linkedin.com/in/rahulnainala) · nainalarahul2k1@gmail.com
 
 ---
 
-## 🚀 Impact By The Numbers
+## Now — Frontend Lead & Full-Stack Engineer, Quantum AI Global (Dec 2025 –)
 
-| Metric | Details |
-|--------|---------|
-| **Users Impacted** | 100K+ through shipped features |
-| **Efficiency Gain** | 40% deployment improvement (micro-frontend migration) |
-| **Performance** | 40% API response time reduction (N+1 queries fixed) |
-| **Cost Saved** | $50K+ annually through database optimization |
-| **Mentorship** | 3 junior developers promoted within 18 months |
-| **Core Web Vitals** | 25% improvement across 4 product teams |
+A quantum computing platform used by universities, shipped as three products from one codebase.
 
----
+- **One codebase, three products.** Cloud, Academia and a Raspberry Pi edge appliance from one core instead of three forks. Extracted a shared core layer across 4 backend services and deleted ~3,000 lines of duplicated code.
+- **Real quantum hardware, never run twice.** Execution on IBM Quantum as async submit/poll that never submits a job twice, plus a CUDA-Q error-correction composer, a noise composer and tensor-network simulation.
+- **Licensing and billing, end to end.** Product catalog, per-product licenses with feature bits, org plans, org-scoped API keys and Razorpay checkout with autopay.
+- **Infrastructure.** The edge appliance on real Raspberry Pi hardware, a GPU dev server, self-hosted CI on GHCR, Redis rate limiting across replicas, 3-tier staging and Helm charts for GPU node pools. Scaled to 50 concurrent students.
+- Hardened auth and CORS across 4 services and added secret scanning to CI.
 
-## 💻 Tech Stack I Live In
+[Read the case study →](https://www.rahulnainala.com/work/platform)
 
-**Backend**: Python (FastAPI, Django) | Node.js (Express) | Java  
-**Databases**: PostgreSQL (my favorite) | MongoDB | Redis | Cassandra basics  
-**System Design**: Microservices | Distributed Systems | Message Queues | Caching Patterns | API Design  
-**DevOps**: Docker | GitHub Actions | AWS (S3, EC2, RDS, Lambda)  
-**Frontend**: React.js | Next.js | TypeScript | Tailwind CSS *(Full-stack capability)*  
-**Quality**: Pytest | Jest | 80%+ code coverage
+## Before
 
----
+**Rubus Digital** — Software Engineer II · Jun 2024 – Nov 2025
+- Led a monolith → micro-frontend migration across 4 teams with Webpack 5 Module Federation: **−40% deployment complexity**.
+- Built a CLI that scaffolds a new micro-frontend in under 30 seconds: new-team onboarding **2 days → 15 minutes**.
+- Built a Three.js 3D dashboard with live IoT data, rendering in **under 2s at 1080p**; a JSON-schema config system cut developer dependency by **60%**.
+- Migrated the codebase to TypeScript and raised Jest coverage to 75%.
 
-## 💼 Professional Journey
+**Casp AI** — Senior Software Engineer (Contract) · Jul 2023 – Jun 2024
+- Built the real-time AI chat UI in React: token-by-token streaming, abortable requests, retry on socket drops.
+- Moved the build to Vite: CI from **~8 min to under 5** (~40% faster).
 
-### **Rubus Digital** — Software Developer | June 2024 – Present
-- **3D Dashboard Architecture**: Designed Three.js real-time visualization system for 50+ enterprise clients
-- **Micro-Frontend Migration**: Led monolith → MFE refactor using Webpack 5 Module Federation
-  - **Result**: 40% faster deployments, enabled independent team shipping
-- **CLI Framework**: Built automated MFE scaffolding tool
-  - **Result**: Setup time reduced from 2 days → 15 minutes (3x velocity boost)
-- **Database Performance**: Fixed N+1 queries, optimized indexes
-  - **Result**: 40% API response time reduction, $50K annual savings
-- **Mentorship**: Guided 3 junior developers → 2 promoted to senior roles within 18 months
+**Hexagon Capability Center India** — Software Engineer · Jun 2022 – Jul 2023 (intern from Oct 2021)
+- React dashboards for engineering teams: **−30%** render load time.
+- Set the frontend testing standard for the dashboards group: **−20%** production defects.
+- Fixed N+1 queries: **−40%** API response time.
 
-**Key Tech**: React, TypeScript, Node.js, PostgreSQL, Docker, GitHub Actions
+## Projects
 
----
+| Project | What it is | Number |
+|---|---|---|
+| [Quantum Computing Platform](https://www.rahulnainala.com/work/platform) | One codebase shipped to the cloud, to universities and to a Raspberry Pi edge appliance | 3 products from one codebase |
+| [Micro-Frontend Platform Migration](https://www.rahulnainala.com/projects/micro-frontend-migration) | A React monolith split into independently deployable micro-frontends across 4 teams | 15 min onboarding, down from 2 days |
+| [3D Asset Dashboard](https://www.rahulnainala.com/projects/3d-asset-dashboard) | Three.js workspace with live IoT data overlays, configured by JSON schema | <2s to render at 1080p |
+| [Dev Wear](https://dev-wear.vercel.app) · [code](https://github.com/rahulnainala/devWear) | Full-stack e-commerce for developer apparel: auth, persistent cart, real checkout | Live |
 
-### **Casp AI** — Senior Software Engineer (Contract) | July 2023 – June 2024
-- **AI Assistant UI**: Built real-time React interface with optimized Redux state management
-- **Build Optimization**: Led Vite.js migration from Webpack
-  - **Result**: 40% CI/CD time reduction (100+ developer hours saved quarterly)
-- **Performance**: 20% faster component rendering through architecture refactor
-- **Testing**: 85% code coverage with Jest test suite
+## Stack
 
-**Key Tech**: React, Vite, Redux, Jest, TypeScript
+- **Frontend** React · Next.js · TypeScript · Three.js · Tailwind CSS · Webpack 5 Module Federation · Vite
+- **Backend** Python · FastAPI · Node.js · REST · WebSockets · async job processing
+- **Data** PostgreSQL · Redis · SQLite
+- **Infrastructure** Docker · GitHub Actions (self-hosted runners) · GHCR · Kubernetes / Helm · Linux · Raspberry Pi · NVIDIA GPU servers
+- **Quantum** CUDA-Q · IBM Quantum · OpenQASM
+- **Quality** Jest · Pytest · secret scanning (gitleaks)
 
----
+## Learning now
 
-### **Hexagon Capability Center** — Software Engineer | June 2022 – July 2023
-- **React Dashboards**: Built interactive dashboards processing 10K+ data points
-  - **Result**: 30% render time improvement
-- **Backend Collaboration**: Aligned API design with React components (resolved UX bottlenecks)
-- **Code Quality**: Established testing standards
-  - **Result**: 20% reduction in production bugs
-
-**Key Tech**: React, C# backend collaboration, Redux, Jest
+Kubernetes (CKA, in progress) · NeetCode 150 (in progress) · *Designing Data-Intensive Applications*
 
 ---
 
-### 💼 Portfolio Website
-*Frontend performance showcase + personal branding*
-
-- **Live**: [rahulnainala.com] | **GitHub**: [View Repo]
-- **Tech**: Next.js 14, React, Tailwind CSS, Deployed on Vercel
-- **Performance**: 98 Lighthouse Score, All Core Web Vitals "Green"
-- **Features**: Dark mode, dynamic routing, SEO optimized, responsive design
-- **Deployment**: Automatic on git push (CI/CD via Vercel)
-- **Key Learnings**:
-  - ✅ Next.js image optimization
-  - ✅ Core Web Vitals optimization (LCP, FID, CLS)
-  - ✅ Vercel deployment best practices
-
----
-
-### 🛠️ Micro-Frontend CLI Framework
-*Automation tool that transformed team productivity*
-
-- **GitHub**: [View Code]
-- **Tech**: Node.js CLI, Docker integration, Automation scripts
-- **Impact**: Setup time reduced from 2 days → 15 minutes (96% faster)
-- **Features**: Port registry, auto-scaffolding, containerization, deployment scripts
-- **Used by**: 4 teams, 20+ developers
-- **Quality**: Production-ready, comprehensive documentation
-- **Key Learnings**:
-  - ✅ CLI tool design patterns
-  - ✅ Developer experience (DX) optimization
-  - ✅ Automation framework architecture
-
----
-
-## 📚 Currently Learning (2025)
-
-- **System Design Deep Dive**: Studying real architectures (Netflix, Amazon, Uber, Twitter)
-- **Advanced PostgreSQL**: Query optimization, EXPLAIN ANALYZE, advanced indexing, partitioning
-- **Distributed Systems**: Kafka, message-driven architectures, eventual consistency
-- **Competitive Programming**: 180+ LeetCode problems solved (targeting 1800+ Codeforces rating)
-- **Preparing for FAANG**: Interview prep timeline (July-October 2025)
-
----
-
-## 🏆 Recognition & Achievements
-
-- **Top Performer**: Promoted to lead projects within first 6 months (Rubus Digital)
-- **Mentorship Track Record**: 3 junior developers mentored → 2 promoted to senior roles (18 months)
-- **Technical Leadership**: 50+ code reviews, established engineering standards at 3 companies
-- **Innovation**: Runner-up at PRAGNYA Innovation Event (Top 2 of 40+ teams)
-
----
-
-## 🎓 What I'm Really Good At
-
-✅ **System Design** - Thinking through trade-offs, scalability, distributed systems  
-✅ **Backend Architecture** - API design, database schema, microservices patterns  
-✅ **Performance Optimization** - Identifying bottlenecks, query optimization, caching strategies  
-✅ **Code Quality** - Testing, documentation, maintainability  
-✅ **Full-Stack Thinking** - Understanding how frontend, backend, and infra work together  
-✅ **Mentorship** - Teaching junior developers, code reviews, best practices  
-
----
-
-## 🔧 My Approach to Problems
-
-1. **Understand the constraints**: Scale, latency, consistency requirements
-2. **Design with trade-offs**: No silver bullets (SQL vs NoSQL, sync vs async, etc.)
-3. **Code for production**: Testing, monitoring, error handling from day 1
-4. **Measure everything**: Metrics > assumptions
-5. **Communicate clearly**: Document decisions, make them discoverable
-
----
-
-## 📊 GitHub Activity
-
-- **Repositories**: 25+ projects (public + private)
-- **Languages**: JavaScript, Python, TypeScript, Java
-
----
-
-## 🤝 Let's Connect
-
-**Email**: nainalarahul2k1@gmail.com  
-**LinkedIn**: [linkedin.com/in/rahulnainala](https://linkedin.com/in/rahulnainala)  
-**Portfolio**: [rahulnainala.com](https://rahulnainala.com)  
-
----
-
-## 💡 Open To
-
-✅ **Backend Engineer roles** (Mid/Senior level)  
-✅ **System Design discussions** and architectural problems  
-✅ **Mentoring** junior developers  
-✅ **Open-source contributions** in backend/devtools  
-✅ **FAANG opportunities** (Google, Amazon, Adobe, Atlassian, Razorpay)
-
----
-
-## 🚀 What's Next?
-
-**2026 Goal**: Join a FAANG-level company as a backend/full-stack engineer
-
-**4-Year Vision**: Staff Engineer at a top-tier company, leading architectural decisions for millions of users
-
-**Personal Mission**: Build systems that scale, mentor the next generation of engineers, make my parents proud
-
----
-
-**Always learning. Always shipping. Always improving.**
-
-*Last updated: November 5, 2025*
+B.Tech, Computer Science & Engineering, Lovely Professional University (2022) · Runner-up, PRAGNYA Innovation Event (2nd of 40+ teams)
